@@ -5,4 +5,3 @@ scikit-learn==1.0.1
 streamlit==1.2.0
 plotly==5.4.0
 DateTime==4.3
-dataframe==0.2.1.3
